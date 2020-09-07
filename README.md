@@ -1,4 +1,4 @@
-# <img src="./gifs/Loading.gif" width="100">
+# <img src="https://github.com/BukkaNikhilSai/BukkaNikhilSai/blob/master/gifs/Loading.gif" width="100">
 
 ## Hello guys I am Nikhil Sai ✋
 
