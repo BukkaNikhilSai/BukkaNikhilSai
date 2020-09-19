@@ -1,6 +1,6 @@
 # <img src="https://github.com/BukkaNikhilSai/BukkaNikhilSai/blob/master/gifs/Loading.gif" width="100">
 
-## Hello guys I am Nikhil Sai ✋
+## Hi, I am Nikhil✋
 
 ### A Machine Leaning and Web Development Enthusiast.
 
